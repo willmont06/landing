@@ -1,3 +1,3 @@
 # landing
 landing page
-hello odin this is the landing page project that im going to apply the html and css that i have learned .
+hello this is my second project on the Odin project curriculum ,this landing page will be made with HTML, CSS and flex box that we learned in the previews lesson.
